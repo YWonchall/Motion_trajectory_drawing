@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\运动轨迹" 
+PRINT(".\Listings\运动轨迹.m51") RAMSIZE(256) 
